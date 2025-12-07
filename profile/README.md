@@ -32,7 +32,7 @@ Our work focuses on the practical implementation, analysis, and extension of qua
 
 ## 👥 Authors
 
-This project was developed by the following engineering students:
+This project was developed by:
 
 * **[Anna Sztukowska](https://github.com/sztvk)** - *(@sztvk)*
 * **[Stefan Furmański](https://github.com/stfen)** - *(@stfen)*
