@@ -41,15 +41,6 @@ This project was developed by the following engineering students:
 
 ---
 
-## 🔬 Project Scope
-
-This engineering project aims to bridge the gap between theoretical quantum biology papers and practical code implementation. 
-
-**Our contributions include:**
-1.  **Refactoring & Extension:** Enhancing the modularity of the original Qiskit code to allow for easier experimentation with different interaction models.
-2.  **Visualization Tools:** Developing a robust pipeline for visualizing the folded protein structures in 3D using modern libraries.
-3.  **Performance Analysis:** Benchmarking the VQE algorithm against classical solvers for short peptide chains to evaluate near-term hardware capabilities.
-
 ## 📚 Acknowledgements & References
 
 This implementation is heavily inspired by and extends the work of:
